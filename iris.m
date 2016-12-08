@@ -304,10 +304,10 @@ rec = fscoreT;
 acc = fscoreT;
 % for i = 1:size(membFunc,1)
 	% trainPredicted = saidaTrain == i;     % | Retorna todas as saidas preditas
-                                          % % | iguais a i como 1
+                                            % | iguais a i como 1
                                           
 	% trainReal = Y == i;                   % | Retorna todas saidas reais
-                                          % % | iguais a i como 1
+                                            % | iguais a i como 1
 	% tp = sum(trainPredicted .* trainReal);       % Verdadeiro Positivo
 	% fn = sum( (trainPredicted==0) .* trainReal); % Falso Negativo
 	% prec = tp/sum(trainPredicted);               % Precisão
