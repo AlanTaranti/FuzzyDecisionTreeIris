@@ -94,7 +94,7 @@ columns{1,5} = 'Saida';
 
 % Gerar as entradas
 for i = 1:n
-    irisFis.input(i).name = columns(1,i);
+    irisFis.input(i).name = columns{1,i};
 end
 
 % Gerar as funções de pertinêcia ( Membeship Functions - MF ) das entradas
