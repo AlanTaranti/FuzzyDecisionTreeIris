@@ -1,4 +1,7 @@
 # Fuzzy Decision Tree Iris
+[![License](https://img.shields.io/github/license/AlanTaranti/FuzzyDecisionTreeIris)](LICENSE)
+![Type](https://img.shields.io/badge/Type-LearningProject-orange)
+
 Prototipação de um classificador fuzzy dotado de caracteristicas de aprendizagem
 
 ### Sobre
@@ -32,9 +35,6 @@ utilizando Árvore de Decisão para definição de regras.
 * Statistics and Machine Learning Toolbox
 
 
-
-#### Contato
-
-Alan Taranti
-
-Email: alan.taranti@gmail.com
+## Contato
+* Email: [alan.taranti@gmail.com](mailto:alan.taranti@gmail.com)
+* Website: [alantaranti.github.io](https://alantaranti.github.io/)
